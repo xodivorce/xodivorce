@@ -2,11 +2,13 @@
    <img style="border-radius: 15px; width: 1000px;" src="./assets/gifs/coding.gif">
     <hr>
 </div>
-<div class="RedmeBody" style="font-family: 'Lexend Deca', sans-serif; color:#ffffff;">
+
+<div class="ReadmeBody" style="font-family: 'Lexend Deca', sans-serif; color: #ffffff;">
     <div align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?color=ffffff?&font=Lexend+Deca&center=false&vCenter=false&width=500&height=35&lines=⚡+Full+Stack+Web+Developer;📱+Android+Developer;🎨+UI/UX+Designer;🛠️+DevOps+Expert;🦋+Follow+XODIVORCE+for+more.." />
+        <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&font=Lexend+Deca&center=false&vCenter=false&width=500&height=35&lines=⚡+Full+Stack+Web+Developer;📱+iOS+Developer;🎨+UI/UX+Designer;🛠️+DevOps+Expert;🦋+Follow+XODIVORCE+for+more.." />
         <br>
     </div>
+
     <div align="left">
         <h2>My Tech Stacks:</h2>
         <div>
@@ -24,6 +26,7 @@
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
         </div>
         <br>
+
         <h2>Operating Systems I Use:</h2>
         <div>
             <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
@@ -35,29 +38,17 @@
         </div>
         <br>
     </div>
+
     <div class="stats">
         <h2>My GitHub Stats:</h2>
-        <a href=http://github-readme-streak-stats.herokuapp.com/demo >
+        <a href="http://github-readme-streak-stats.herokuapp.com/demo">
             <img width=420 height=160 style="border-radius: 14px; border: 1px solid white;" src="https://github-readme-streak-stats.herokuapp.com/?user=xodivorce&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff" />
         </a>
-        <a href=https://github.com/anuraghazra/github-readme-stats >
+        <a href="https://github.com/anuraghazra/github-readme-stats">
             <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=xodivorce&bg_color=0000&text_color=38bdf8&title_color=38bdf8&icon_color=ea21c4&show_icons=true&border_color=ffffff&border_radius=16" />
         </a>
     </div>
 </div>
+
 <div class="ReadmeFooter">
 </div>
-<!--
-**xodivorce/xodivorce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
