@@ -3,7 +3,7 @@
 -->
 
 <div class="ReadmeHeader">
-   <img style="border-radius: 15px; width: 1000px;" src="./assets/gifs/laptop.gif">
+   <img style="border-radius: 15px; width: 1000px;" src="./assets/gifs/coding.gif">
     <hr>
 </div>
 <div class="RedmeBody" style="font-family: 'Lexend Deca', sans-serif; color:#ffffff;">
