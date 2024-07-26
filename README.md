@@ -8,7 +8,7 @@
         <br>
     </div>
     <div align="left">
-        <h2>🚀 My Tech Stacks:</h2>
+        <h1>My Tech Stacks:</h1>
         <div>
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,7 +24,7 @@
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
         </div>
         <br>
-        <h2>🖥️ Operating Systems I Use:</h2>
+        <h1>Operating Systems I Use:</h1>
         <div>
             <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -36,7 +36,7 @@
         <br>
     </div>
     <div class="stats">
-        <h2>📊 My GitHub Stats:</h2>
+        <h2>My GitHub Stats:</h2>
         <a href="http://github-readme-streak-stats.herokuapp.com/demo">
             <img width="420" height="160" style="border-radius: 14px; border: 1px solid white;" src="https://github-readme-streak-stats.herokuapp.com/?user=xodivorce&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff" />
         </a>
