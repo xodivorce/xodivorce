@@ -68,9 +68,9 @@
 <br><br>
 Here are some ideas :
 
-- 🔭 I’m currently working on ... [xeorl](https://github.com/xodivorce/xeorl)
+- 🔭 I’m currently working on ... [Hygeon_Helath](https://github.com/xodivorce/Hygeon_Helath)
 - 🌱 I’m currently learning ... [AI](https://chatgpt.com/share/66e57125-36d4-800f-93b4-52cd6d539358) & [ML](https://chatgpt.com/share/66e57143-93a0-800f-ad2b-e4cfeb21c6cd)
-- 👯 I’m looking to collaborate on ... [xodivorce_org](https://github.com/xodivorce/xodivorce_org)
+- 👯 I’m looking to collaborate on ... [xeorl](https://github.com/xodivorce/xeorl)
 - 🤔 I’m looking for help with ... [MERN stack](https://chatgpt.com/share/c62d1c91-c94f-44e5-82af-ae7639166236)
 - 💬 Ask me about ... [Front-end development](https://chatgpt.com/share/1e408fa5-edbd-4414-a4a6-b0a1947b40ab), [Web animations](https://chatgpt.com/share/c975b2c0-6f53-4371-bb2d-1bb2a6fa0a41), [Portfolio website development](https://chatgpt.com/share/10212614-e54a-405e-a5db-6894f1f645f8), and [My favorite Programming languages](https://chatgpt.com/share/0e0e6349-3f3b-4cd3-8341-c7f7928ab293)
 - 📫 How to reach me: ... *hey@xodivorce.in*
