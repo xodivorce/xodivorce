@@ -7,7 +7,7 @@
                     -->
 
 <div class="ReadmeHeader">
-   <img style="border-radius: 15px; width: 1000px;" src="./assets/gifs/coding.gif">
+   <img style="border-radius: 15px; width: 1000px;" src="./assets/gifs/work.gif">
     <hr>
 </div>
 <div class="RedmeBody" style="font-family: 'Lexend Deca', sans-serif; color:#ffffff;">
@@ -34,6 +34,7 @@
             <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+            <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
             <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
             <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge"/>
@@ -55,7 +56,7 @@
     <div class="stats">
         <h2>My GitHub Stats:</h2>
         <a href=http://github-readme-streak-stats.herokuapp.com/demo >
-            <img width=420 height=160 style="border-radius: 14px; border: 1px solid white;" src="https://github-readme-streak-stats.herokuapp.com/?user=xodivorce&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff" />
+            <img width=420 height=160 style="border-radius: 14px; border: 1px solid white;" src="http://github-readme-streak-stats.herokuapp.com?user=xodivorce&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff" />
         </a>
         <a href=https://github.com/anuraghazra/github-readme-stats >
             <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=xodivorce&bg_color=0000&text_color=38bdf8&title_color=38bdf8&icon_color=ea21c4&show_icons=true&border_color=ffffff&border_radius=16" />
@@ -69,12 +70,12 @@
 Here are some ideas :
 
 - 🔭 I’m currently working on ... [Hygeon_Helath](https://github.com/xodivorce/Hygeon_Helath)
-<!-- - 🌱 I’m currently learning ... [AI](https://chatgpt.com/share/66e57125-36d4-800f-93b4-52cd6d539358) & [ML](https://chatgpt.com/share/66e57143-93a0-800f-ad2b-e4cfeb21c6cd) -->
 - 🌱 I’m currently learning ... [MERN stack](https://chatgpt.com/share/c62d1c91-c94f-44e5-82af-ae7639166236)
 - 👯 I’m looking to collaborate on ... [xeorl](https://github.com/xodivorce/xeorl)
 - 🤔 I’m looking for help with ... [MERN stack](https://chatgpt.com/share/c62d1c91-c94f-44e5-82af-ae7639166236)
 - 💬 Ask me about ... [Front-end development](https://chatgpt.com/share/1e408fa5-edbd-4414-a4a6-b0a1947b40ab), [Web animations](https://chatgpt.com/share/c975b2c0-6f53-4371-bb2d-1bb2a6fa0a41), [Portfolio website development](https://chatgpt.com/share/10212614-e54a-405e-a5db-6894f1f645f8), and [My favorite Programming languages](https://chatgpt.com/share/0e0e6349-3f3b-4cd3-8341-c7f7928ab293)
 - 📫 How to reach me: ... *hey@xodivorce.in*
 - 😄 Pronouns: ... [xodivorce](https://www.instagram.com/xodivorce)
-- 🎧 I’m currently listening on ... [Spotify](https://open.spotify.com/user/31aqyehmrypkkn2flbg3ay7wac5i?si=e346f9f892dc44f8)
+<!-- - 🎧 I’m currently listening on ... [Spotify](https://open.spotify.com/user/31aqyehmrypkkn2flbg3ay7wac5i?si=e346f9f892dc44f8) -->
+- 🎧 I’m currently listening on ... [Youtube Music](https://music.youtube.com/channel/UCl3g-HCCTVBP5pvRps8XH7Q?si=2ypJKb75k36OycB0)
 - ⚡ Fun fact: ... " [Programming is like sex. One mistake and you have to pay-it for the rest of your life](https://chatgpt.com/share/96d46e01-f78b-479e-999c-829ff6ff550e) "
