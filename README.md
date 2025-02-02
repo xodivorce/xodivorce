@@ -7,7 +7,7 @@
                     -->
 
 <div class="ReadmeHeader">
-   <img style="border-radius: 15px; width: 1000px;" src="./assets/gifs/work.gif">
+   <img style="border-radius: 15px; width: 1000px;" src="./assets/gifs/apple.gif">
     <hr>
 </div>
 <div class="RedmeBody" style="font-family: 'Lexend Deca', sans-serif; color:#ffffff;">
@@ -76,6 +76,5 @@ Here are some ideas :
 - 💬 Ask me about ... [Front-end development](https://chatgpt.com/share/1e408fa5-edbd-4414-a4a6-b0a1947b40ab), [Web animations](https://chatgpt.com/share/c975b2c0-6f53-4371-bb2d-1bb2a6fa0a41), [Portfolio website development](https://chatgpt.com/share/10212614-e54a-405e-a5db-6894f1f645f8), and [My favorite Programming languages](https://chatgpt.com/share/0e0e6349-3f3b-4cd3-8341-c7f7928ab293)
 - 📫 How to reach me: ... *hey@xodivorce.in*
 - 😄 Pronouns: ... [xodivorce](https://www.instagram.com/xodivorce)
-<!-- - 🎧 I’m currently listening on ... [Spotify](https://open.spotify.com/user/31aqyehmrypkkn2flbg3ay7wac5i?si=e346f9f892dc44f8) -->
 - 🎧 I’m currently listening on ... [Youtube Music](https://music.youtube.com/channel/UCl3g-HCCTVBP5pvRps8XH7Q?si=2ypJKb75k36OycB0)
 - ⚡ Fun fact: ... " [Programming is like sex. One mistake and you have to pay-it for the rest of your life](https://chatgpt.com/share/96d46e01-f78b-479e-999c-829ff6ff550e) "
