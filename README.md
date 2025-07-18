@@ -7,7 +7,7 @@
                     -->
 
 <div class="ReadmeHeader">
-   <img style="border-radius: 15px; width: 1000px;" src="./assets/gifs/apple.gif">
+   <img style="border-radius: 15px; width: 1000px;" src="./assets/gifs/Overview.gif">
     <hr>
 </div>
 <div class="RedmeBody" style="font-family: 'Lexend Deca', sans-serif; color:#ffffff;">
@@ -39,8 +39,8 @@
             <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
             <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge"/>
             <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge"/>
-            <img src="(https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)">
-             <img src="(https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)">
+            <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+             <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
         </div>
         <br>
