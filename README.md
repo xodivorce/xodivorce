@@ -1,4 +1,4 @@
-<h2> Hey, I'm  파시드 ! <img src="https://media.giphy.com/media/klAklGPUPZ4X9CDjHO/giphy.gif" width="50"></h2>
+<h2>Hey, I'm 파시드 ! <img src="https://media.giphy.com/media/klAklGPUPZ4X9CDjHO/giphy.gif" width="50"></h2>
 
 <p><code>npx xodivorce</code> — try me out :)</p>
 
@@ -33,12 +33,13 @@ const xodivorce = {
 }
 ```
 
-<img src="https://media.giphy.com/media/9ucGpJp9QF1ModuBpL/giphy.gif" width="60"> 
-<em>
-I build <b>purposeful tools</b> with a focus on <b>clean aesthetics</b> and <b>function</b>.  
-Fueled by <b>music + coffee</b>,  
-I craft <b>interfaces with precision</b> and <b>care</b>. <b>Every pixel matters..</b>
-</em>
-
+<p>
+  <img src="https://media.giphy.com/media/9ucGpJp9QF1ModuBpL/giphy.gif" width="60">
+  <em>
+    I build <b>purposeful tools</b> with a focus on <b>clean aesthetics</b> and <b>function</b>.  
+    Fueled by <b>music + coffee</b>,  
+    I craft <b>interfaces with precision</b> and <b>care</b>. <b>Every pixel matters..</b>
+  </em>
+</p>
 
 ---
