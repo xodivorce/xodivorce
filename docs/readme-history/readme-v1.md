@@ -2,12 +2,8 @@
 **xodivorce/xodivorce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!--  **Format Badges**
-    <img src=" "/>
-                    -->
-
 <div class="ReadmeHeader">
-   <img style="border-radius: 15px; width: 1000px;" src="../assets/gifs/Overview.gif">
+   <img style="border-radius: 15px; width: 1000px;" src="../assets-history/v1/demos/programming.gif">
     <hr>
 </div>
 <div class="RedmeBody" style="font-family: 'Lexend Deca', sans-serif; color:#ffffff;">
@@ -61,7 +57,7 @@
             <img width=420 height=160 style="border-radius: 14px; border: 1px solid white;" src="http://github-readme-streak-stats.herokuapp.com?user=xodivorce&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff" />
         </a>
         <a href=https://github.com/anuraghazra/github-readme-stats >
-            <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=xodivorce&bg_color=0000&text_color=38bdf8&title_color=38bdf8&icon_color=ea21c4&show_icons=true&border_color=ffffff&border_radius=16" />
+            <img width=420 height=165 src="https://github-stats.neosubhamoy.com/api?username=xodivorce&bg_color=0000&text_color=38bdf8&title_color=38bdf8&icon_color=ea21c4&show_icons=true&border_color=ffffff&border_radius=16" />
         </a>
     </div>
 </div>
