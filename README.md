@@ -46,7 +46,7 @@ I'm **Prasid**, formally known as [@xodivorce](https://instagram.com/xodivorce);
 ![npm](https://img.shields.io/badge/npm-0F172A.svg?style=for-the-badge&logo=npm&logoColor=38BDF8)
 ![Git](https://img.shields.io/badge/git-0F172A.svg?style=for-the-badge&logo=git&logoColor=38BDF8)
 
-## My GitHub Stats
+## GitHub Activity & Stats
 
 <div class="stats">
     <img align="left" width=380 height=160 style="border-radius: 14px; border: 1px solid white;" src="https://github-streak-stats.neosubhamoy.com?user=xodivorce&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff" />
