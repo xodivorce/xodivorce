@@ -11,7 +11,7 @@
 
 Hello, There! 👋
 
-I'm **Prasid**, formally known as [@xodivorce](https://instagram.com/xodivorce); a professional **Full-Stack Web Developer**, **Social Media Manager** and **Freelancer** based in **Kolkata, India**. Specialized in building scalable, cross-platform, responsive web apps with modern user interfaces!  Delivering modern web apps with AI-integrated solutions for more than **3+** years!
+I'm **Prasid**, formally known as [@xodivorce](https://instagram.com/xodivorce); a professional **Full-Stack Web Developer**, **Social Media Manager** and **Freelancer** based in **Kolkata, India**. Specialized in building scalable, cross-platform and responsive web apps with modern user interfaces!  Delivering modern web apps with AI-integrated solutions for more than **3+** years!
 
 <p><code>"npx xodivorce"</code> - try me out :)</p>
 
