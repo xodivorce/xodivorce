@@ -2,7 +2,7 @@
 **xodivorce/xodivorce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Header](./assets/images/header.jpeg)
+<!-- ![Header](./assets/images/header.jpeg) -->
 
 [![Website](https://img.shields.io/badge/www.xodivorce.in-blue)](https://www.xodivorce.in)
 [![GitHub](https://img.shields.io/github/followers/xodivorce)](https://github.com/xodivorce)
