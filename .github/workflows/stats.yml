@@ -1,0 +1,41 @@
+name: refresh stats
+
+# Deliberately no `push` trigger: this job commits stats.svg, and a push
+# trigger would make it re-run on its own commit.
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Draw the stat graphics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/generate_stats.py
+
+      - name: Commit whatever changed
+        run: |
+          FILES="stats.svg streak.svg langs.svg year.svg hd-*.svg"
+          if [ -z "$(git status --porcelain -- $FILES)" ]; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- $FILES
+          git commit -m "stats: refresh profile graphics"
+          git push

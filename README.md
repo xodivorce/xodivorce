@@ -1,54 +1,99 @@
-<!--
-**xodivorce/xodivorce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
 
-<!-- ![Header](./assets/images/header.jpeg) -->
+<img src="./assets/images/ascii.svg" width="460" alt="xodivorce"/>
 
-[![Website](https://img.shields.io/badge/www.xodivorce.in-blue)](https://www.xodivorce.in)
-[![GitHub](https://img.shields.io/github/followers/xodivorce)](https://github.com/xodivorce)
+<img src="./assets/images/stats.svg" width="620" alt="Contributions in the last year"/>
 
-## About Me
+[www.xodivorce.in](https://www.xodivorce.in) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/xodivorce/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/xodivorce/) &nbsp;·&nbsp;
+[heyxodivorce@gmail.com](mailto:heyxodivorce@gmail.com)
 
-Hello, There! 👋
-
-I'm **Prasid**, formally known as [@xodivorce](https://instagram.com/xodivorce); a professional **Full-Stack Web Developer**, **Social Media Manager** and **Freelancer** based in **Kolkata, India**. Specialized in building scalable, cross-platform and responsive web apps with modern user interfaces!  Delivering modern web apps with AI-integrated solutions for more than **3+** years!
-
-<p><code>"npx xodivorce"</code> - try me out :)</p>
-
-- ⚡️ Currently working on [SixSeven](https://github.com/xodivorce/sixseven) for Humans! ( ~ Hireing Laravel devs)
-- 🧩 Learning Advance Laravel, Networking and Docker.
-- 🎧 Listening on.. [Apple Music](https://music.apple.com/profile/xodivorce) with a cup of coffee!
-
-> [!TIP]
-> **🫪 Got a story to become? Everyone has a story to tell. Let's create ours-and yours. (Currently working with small to mid businesses and teams) ~ see ya!**
-
-## Tools & Technologies
-
-![HTML5](https://img.shields.io/badge/html5-0F172A.svg?style=for-the-badge&logo=html5&logoColor=38BDF8)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/javascript-0F172A.svg?style=for-the-badge&logo=javascript&logoColor=38BDF8)
-![React](https://img.shields.io/badge/react-0F172A.svg?style=for-the-badge&logo=react&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/vite-0F172A.svg?style=for-the-badge&logo=vite&logoColor=38BDF8)
-![NextJS](https://img.shields.io/badge/Next-0F172A?style=for-the-badge&logo=next.js&logoColor=38BDF8)
-![ExpressJS](https://img.shields.io/badge/express.js-0F172A.svg?style=for-the-badge&logo=express&logoColor=38BDF8)
-![NodeJS](https://img.shields.io/badge/node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=38BDF8)
-![Laravel](https://img.shields.io/badge/laravel-0F172A.svg?style=for-the-badge&logo=laravel&logoColor=38BDF8)
-![Livewire](https://img.shields.io/badge/livewire-0F172A.svg?style=for-the-badge&logo=livewire&logoColor=38BDF8)
-![PHP](https://img.shields.io/badge/php-0F172A.svg?style=for-the-badge&logo=php&logoColor=38BDF8)
-![Kotlin](https://img.shields.io/badge/kotlin-0F172A.svg?style=for-the-badge&logo=kotlin&logoColor=38BDF8)
-![Java](https://img.shields.io/badge/java-0F172A.svg?style=for-the-badge&logo=openjdk&logoColor=38BDF8)
-![Python](https://img.shields.io/badge/python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
-![MySQL](https://img.shields.io/badge/mysql-0F172A.svg?style=for-the-badge&logo=mysql&logoColor=38BDF8)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A.svg?style=for-the-badge&logo=mongodb&logoColor=38BDF8)
-![Nginx](https://img.shields.io/badge/nginx-0F172A.svg?style=for-the-badge&logo=nginx&logoColor=38BDF8)
-![Docker](https://img.shields.io/badge/docker-0F172A.svg?style=for-the-badge&logo=docker&logoColor=38BDF8)
-![Figma](https://img.shields.io/badge/figma-0F172A.svg?style=for-the-badge&logo=figma&logoColor=38BDF8)
-![npm](https://img.shields.io/badge/npm-0F172A.svg?style=for-the-badge&logo=npm&logoColor=38BDF8)
-![Git](https://img.shields.io/badge/git-0F172A.svg?style=for-the-badge&logo=git&logoColor=38BDF8)
-
-## GitHub Activity & Stats
-
-<div class="stats">
-    <img align="left" width=380 height=160 style="border-radius: 14px; border: 1px solid white;" src="https://github-streak-stats.neosubhamoy.com?user=xodivorce&background=0000&border=0000&stroke=fff&ring=38bdf8&fire=ea21c4&currStreakLabel=38bdf8&currStreakNum=ea21c4&sideLabels=ea21c4&sideNums=38bdf8&dates=fff" />
-    <img align="right" width=400 height=165 src="https://github-stats.neosubhamoy.com/api?username=xodivorce&bg_color=0000&text_color=38bdf8&title_color=38bdf8&icon_color=ea21c4&show_icons=true&border_color=ffffff&border_radius=16" />
 </div>
+
+<img src="./assets/images/hd-about.svg" width="620" alt="about"/>
+
+> CS student at West Bengal State, in the CCU Area.<br>
+> Building what doesn’t exist yet, beating the odds.
+
+I build with intent, forge what we need, and kill what doesn’t work. Right now that's<br>
+[noticed](https://github.com/xodivorce/noticed) — an in-person dating platform. Also deep into markets: freelancing, data<br>
+cleaning, database management, product engineering, open source, and hackathons.
+
+<img src="./assets/images/hd-stack.svg" width="620" alt="stack"/>
+
+<samp>
+html5 &nbsp; tailwindcss &nbsp; css &nbsp; javascript &nbsp; react &nbsp; vite &nbsp; next.js &nbsp;
+express.js &nbsp; node.js &nbsp; laravel &nbsp; livewire &nbsp; php &nbsp; kotlin &nbsp;
+java &nbsp; python &nbsp; mysql &nbsp; mongodb &nbsp; nginx &nbsp; docker &nbsp; figma &nbsp;
+npm &nbsp; git
+</samp>
+<br><br>
+
+<img src="./assets/images/hd-projects.svg" width="620" alt="projects"/>
+
+**[infra-xodivorce-in](https://github.com/xodivorce/infra-xodivorce-in)** &nbsp;·&nbsp; <samp>php, mysql, ai chatbot</samp><br>
+Open infrastructure reporting system for identifying, documenting, and resolving<br>
+local civic and campus infrastructure problems. Built with @Team Divorce,<br>
+GDG MSIT Hackathon, CCU.
+
+**[face-recognise-attendance-system](https://github.com/xodivorce/face-recognise-attendance-system)** &nbsp;·&nbsp; <samp>python, opencv, pandas, flask</samp><br>
+Python-based attendance system using facial recognition to capture, identify,<br>
+and record attendance automatically in real time.
+
+**[xeorl](https://github.com/xodivorce/xeorl)** &nbsp;·&nbsp; <samp>php, mysql</samp><br>
+Advanced URL shortening and management platform with multi-layered URL encryption,<br>
+metadata removal, mass shrinking, quick-link utilities, and privacy controls.
+
+**[npx-xodivorce](https://github.com/xodivorce/npx-xodivorce)** &nbsp;·&nbsp; <samp>javascript, node.js, npm</samp><br>
+Interactive CLI business card — run " <samp><strong>npx xodivorce</strong></samp> " directly in your<br>
+terminal to explore my profile, links, resume, and more.
+
+**[www.xodivorce.in](https://www.xodivorce.in)** &nbsp;·&nbsp; <samp>laravel, tailwindcss, mysql</samp><br>
+Developer portfolio: projects, explorations, and everything I'm forging.
+
+<div align="center">
+
+<a href="https://github.com/xodivorce?tab=repositories">explore repositories ↗</a>
+
+</div>
+
+<img src="./assets/images/hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
+
+<img src="./assets/images/streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./assets/images/langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./assets/images/year.svg" width="620" alt="The last year, one character per day"/>
+
+</div>
+
+<img src="./assets/images/hd-about-this-page.svg" width="620" alt="about this page"/>
+
+This page is built as a small experiment in making a GitHub profile feel more like a<br>
+personal interface than a static README.
+
+Every graphic here is generated locally, rather than embedded from an external service.<br>
+`ascii.svg` is a photo transformed through a character ramp by [`scripts/make_portrait.py`](scripts/make_portrait.py),<br>
+while the statistics and section headings are generated by [a scheduled action](.github/workflows/stats.yml) using<br>
+data from the GitHub GraphQL API, once a day, committing only what changes.<br>
+
+The graphics use SMIL for animation because GitHub strips JavaScript from README<br>
+content. Nothing here depends on a third-party graphics service, so the page doesn't<br>
+rely on external assets that can rate-limit, change, or disappear.
+
+The section headings are also SVGs. GitHub strips custom CSS from READMEs, so<br>
+SVGs provide a way to give the page its own typography and visual language while<br>
+keeping everything self-contained.
+
+The typeface is [JetBrains Mono](scripts/fonts), subset to only the characters required by each<br>
+graphic and embedded directly into the SVGs as base64. It is more than a visual<br>
+choice: the portrait grid assumes an exact character advance width of 0.600 em,<br>
+so a narrower default monospace font would distort the image.
+
+Language totals cover public repositories only. `year.svg` reuses the portrait's<br>
+character ramp — `:` `+` `#` `@` — progressing from quiet to loud.
+
+Design inspiration: [@andriidrok1](https://github.com/andriidrok1) → a CS student at San Francisco State University.
