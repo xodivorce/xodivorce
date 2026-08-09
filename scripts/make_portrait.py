@@ -4,7 +4,7 @@
 This is the generator that produced the portrait at the top of the README.
 Run it once; it is not on a schedule, unlike scripts/generate_stats.py.
 
-    pip install pillow numpy opencv-python-headless rembg onnxruntime
+    pip install -r requirements.txt
     python3 scripts/make_portrait.py photo.png --crop 400,110,910,790
     python3 scripts/embed_portrait_font.py      # inline the font, see below
 
@@ -29,6 +29,7 @@ Motion is SMIL, because GitHub strips <script> from READMEs: each row is
 revealed by a clipPath wipe with a cursor block riding its edge, staggered top
 to bottom, frozen at the end so it prints once and stops.
 """
+
 import argparse
 import sys
 

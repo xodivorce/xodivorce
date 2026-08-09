@@ -3,7 +3,7 @@
 
 The portrait is a one-off artifact — a photo pushed through a character ramp —
 so unlike the stat graphics it isn't regenerated on a schedule. Run this after
-ever rebuilding it.
+rebuilding it.
 
 Why it matters: the character grid bakes in an advance width of exactly 0.600 em
 (CHAR_W 7.74 at font-size 12.9). JetBrains Mono is 600/1000 units, so the

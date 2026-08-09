@@ -1,7 +1,30 @@
-name: refresh stats
+name: refresh-stats
+
+# GitHub Actions runs this workflow once every day at 05:17 UTC.
+# You can also run it manually from the Actions tab using workflow_dispatch.
+
+# REQUIRED SETUP:
+# 1. Create a GitHub Personal Access Token (PAT).
+# 2. Go to:
+#    GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic).
+# 3. Click Generate new token (classic).
+# 4. Give the token a name and choose an expiration date.
+# 5. Select the "repo" and "read:user" scopes.
+# 6. Click "Generate token" and copy the token.
+# 7. Add it to this repository:
+#    Repository → Settings → Secrets and variables → Actions → New repository secret
+# 8. Set the secret name to exactly:
+#    GH_STATS_TOKEN
+# 9. Paste the generated token as the secret value and save it.
+
+# NEVER put the actual token directly in this YAML file.
+
+# The token is then passed securely to generate_stats.py through
+# the GITHUB_TOKEN environment variable below.
 
 # Deliberately no `push` trigger: this job commits stats.svg, and a push
 # trigger would make it re-run on its own commit.
+
 on:
   schedule:
     - cron: "17 5 * * *"
