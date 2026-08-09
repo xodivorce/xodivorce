@@ -25,11 +25,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
+          OUT_DIR: assets/images
         run: python3 scripts/generate_stats.py
 
       - name: Commit whatever changed
         run: |
-          FILES="stats.svg streak.svg langs.svg year.svg hd-*.svg"
+          FILES="assets/images/stats.svg assets/images/streak.svg assets/images/langs.svg assets/images/year.svg assets/images/hd-*.svg"
           if [ -z "$(git status --porcelain -- $FILES)" ]; then
             echo "no change"
             exit 0
