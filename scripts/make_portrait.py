@@ -31,12 +31,19 @@ to bottom, frozen at the end so it prints once and stops.
 """
 
 import argparse
+import os
 import sys
 
 import cv2
 import numpy as np
 from PIL import Image
 from rembg import remove
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+
+DEFAULT_PHOTO = os.path.join(ROOT, "assets", "source", "xodivorce.jpg")
+DEFAULT_OUT = os.path.join(ROOT, "assets", "images", "ascii.svg")
 
 RAMP = " .`:-=+*cs#%@"     # bright/sparse -> dark/dense; leading space = blank
 COLS = 90                  # below ~88 the face muddies; far above it dominates
@@ -63,7 +70,6 @@ def prep(path, crop=None):
 
     cut = remove(src)
     alpha = np.array(cut.split()[-1])
-
     # Composite onto white so everything outside the subject maps to the blank
     # end of the ramp. Skip this and the background fills with @ and %.
     white = Image.new("RGBA", cut.size, (255, 255, 255, 255))
@@ -143,8 +149,8 @@ def build_svg(lines, cols=COLS):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("photo")
-    ap.add_argument("out", nargs="?", default="ascii.svg")
+    ap.add_argument("photo", nargs="?", default=DEFAULT_PHOTO)
+    ap.add_argument("out", nargs="?", default=DEFAULT_OUT)
     ap.add_argument("--crop", help="left,top,right,bottom, applied first — crop "
                                    "tight to the head so the whole grid goes to "
                                    "the face")
